@@ -1,17 +1,4 @@
 # Soduku
 Soduku Solver
 
-## 
-###
-####
-
-bullet points
-* asdfasd
-* asdfa
-
-
-
-
-
-      some code
-      some more code
+Uses optimization and backtracking to solve any Sudoku Board of any valid size. 
